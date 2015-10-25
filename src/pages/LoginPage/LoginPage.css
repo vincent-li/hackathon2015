@@ -1,0 +1,47 @@
+.login-img{
+    text-align: center;
+}
+.login-img > i{
+    font-size: 251px;
+}
+.forget-password{
+    text-align: right;
+    padding: 25px 17.5px;
+}
+.login-phone{
+    display: inline-block;
+    position: relative;
+    border-bottom: 0.5px solid #999;
+    text-align: center;
+    width: 60%;
+}
+.login-password{
+    display: inline-block;
+    text-align: center;
+    width: 60%;
+}
+.login-point{
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #999;
+    position: absolute;
+    bottom: -2.5px;
+}
+
+.login-point.left{
+    left: -2px;
+}
+.login-point.right{
+    right: -2px;
+}
+
+.btn-login{
+    margin-top: 50px;
+    padding: 0 17.5px;
+}
+
+.marg-20{
+    margin-top: 40px;
+}

@@ -1,0 +1,28 @@
+.dialog-content{
+	color: #FFF;
+}
+.dialog-content i{
+	color: #FFF;
+}
+.dialog-content > .iconfont{
+	font-size: 110px;
+}
+
+.dialog-content .dialog-title{
+	font-size: 30px;
+	font-weight: bolder;
+	margin-top: 28px;
+}
+
+.dialog-content .dialog-desc{
+	margin-top: 14px;
+	font-size: 17px;
+}
+
+.dialog-content .dialog-close{
+	margin-top: 40px;
+}
+
+.dialog-content .dialog-close > i{
+	font-size: 28px;
+}

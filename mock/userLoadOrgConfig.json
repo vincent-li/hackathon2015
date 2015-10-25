@@ -1,0 +1,15 @@
+//获取用户的关注列表
+{
+    "data" : [{
+        "userId" : "d-d-d",//用户id
+        "userPhone" : "18858187758",//电话
+        "hasLogined" : true,//是否已经登录
+        "loginTime"  : 1435815643630,//登录时间
+        "loginTimes" : 0, //登录次数，依次来判断是否看指导页
+        "attentionRouter" : "/",//关注的店铺页面（cdn上的app地址，带上版本，//*/*/*/app.js?v=*.*.*）
+        "attentionAppName" : "QiCaiRenSheng"//模块的全局对象，加载的时候是用react.render(window.QiCaiRenSheng)
+    }],
+    "success" : true,
+    "errorCode" : 0,
+    "errorMsg" : ""
+}

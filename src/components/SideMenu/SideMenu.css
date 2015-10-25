@@ -1,0 +1,49 @@
+.side-menu > .menu-header{
+    margin-top: 40px;
+    margin-bottom: 33px;
+}
+.side-menu-item{
+    height: 70px;
+    line-height: 70px;
+    padding: 0 48px;
+    color: #333;
+}
+
+.side-menu-item.active{
+    background-color: #FFF;
+}
+.side-menu-item .leyo-app-icon-activities,
+.side-menu-item .leyo-app-icon-diary,
+.side-menu-item .leyo-app-icon-settings,
+.side-menu-item .leyo-app-icon-user-msg{
+    font-size: 22px;
+}
+
+.side-menu-item .leyo-app-icon-arrow-right{
+    font-size: 16px;
+}
+
+.side-menu-item .menu-item-title{
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.side-menu-avatar{
+    display: inline-block;
+    height: 93px;
+    width: 93px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #FFF;
+}
+
+.side-menu-avatar > .iconfont{
+    font-size: 73px;
+    top: 10px;
+}
+.nick-name{
+    font-size: 18px;
+}
+.user-phone{
+    font-size: 14px;
+}

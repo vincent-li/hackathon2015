@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('//at.alicdn.com/t/font_1445756638_7481167.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/font_1445756638_7481167.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/font_1445756638_7481167.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/font_1445756638_7481167.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/font_1445756638_7481167.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  position: relative;
+  top: 0;
+  display: inline-block;
+  font-family: 'iconfont';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  font-size: 14px;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 地址*/
+.leyo-app-icon-addres:before{
+  content: "\e600";
+}
+/* 切换身份 */
+.leyo-app-icon-change-identity:before{
+  content: "\e602";
+}
+/* 601====删除 */
+.leyo-app-icon-delete:before{
+  content: "\e601";
+}
+/* 603====返回 */
+.leyo-app-icon-back:before{
+  content: "\e603";
+}
+/* 604====更多 */
+.leyo-app-icon-more:before{
+  content: "\e604";
+}
+/* 605====二维码 */
+.leyo-app-icon-barcode:before{
+  content: "\e615";
+}
+/* 606====地图 */
+.leyo-app-icon-map:before{
+  content: "\e613";
+}
+/* 607====设置 */
+.leyo-app-icon-settings:before{
+  content: "\e607";
+}
+/* 608====列表 */
+.leyo-app-icon-activities:before{
+  content: "\e608";
+}
+/* 609====右箭头 */
+.leyo-app-icon-arrow-right:before{
+  content: "\e609";
+}
+/* 60b====成长日记 */
+.leyo-app-icon-diary:before{
+  content: "\e60b";
+}
+/* 60a====活动记录 */
+.leyo-app-icon-user-msg:before{
+  content: "\e60a";
+}
+/* 60d====签到 */
+.leyo-app-icon-signin:before{
+  content: "\e616";
+}
+/* 60f====群聊 */
+.leyo-app-icon-weixin:before{
+  content: "\e612";
+}
+/* 60e====集合 */
+.leyo-app-icon-jijie:before{
+  content: "\e614";
+}
+/* 610====抽奖 */
+.leyo-app-icon-choujiang:before{
+  content: "\e611";
+}

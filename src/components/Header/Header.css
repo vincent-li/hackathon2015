@@ -1,0 +1,46 @@
+/* header 设置 */
+.leyo-header{
+    padding: 0 13px;
+}
+
+.header-title{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 45px;
+    position: relative;
+}
+
+.header-title > i.iconfont{
+    font-size: 63px;
+    position: absolute;
+    left: 50%;
+    margin-left: -31px;
+    top: -9px;
+}
+
+
+.header-back > i.iconfont,
+.header-more > i.iconfont{
+    color: #333;
+    font-size: 31px;
+    padding: 7px 0;
+}
+.header-change{
+    margin-left: 25px;
+}
+.header-change > i.iconfont{
+    color: #333;
+    font-size: 38px;
+    padding: 3px 0;
+}
+
+.header-more{
+    text-align: right;
+}
+
+.header-link{
+    text-align: center;
+    font-size: 18px;
+    line-height: 45px;
+}

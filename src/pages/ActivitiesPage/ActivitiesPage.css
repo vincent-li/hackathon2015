@@ -1,0 +1,32 @@
+.padding-16{
+    padding: 16px;
+}
+.sigin-in{
+    
+}
+.sigin-in > .iconfont{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.now-date{
+    padding-left: 17.5px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.now-date > div:first-child{
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.now-date > div:last-child{
+    font-size: 24px;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.text-ali-r{
+    text-align: right;
+
+}

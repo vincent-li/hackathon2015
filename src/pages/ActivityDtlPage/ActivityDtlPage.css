@@ -1,0 +1,143 @@
+.class-basic-info{
+    height: 195px;
+    width: 100%;
+    color:#fff;
+    background: #333;
+}
+
+.class-info-left{
+    font-size: 14px;
+    padding: 10px 17.5px;
+}
+
+.class-info-left > div{
+    line-height: 25px;
+}
+
+.class-info-left .class-info-name{
+    font-size: 21px;
+    line-height: 45px;
+}
+
+.class-info-bottom{
+    padding: 17px 10px 0 28px;
+}
+
+.class-info-bottom .class-info-contact{
+    text-align: right;
+}
+
+.class-info-bottom .class-info-tags > span{
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding: 3px;
+    margin-right: 8px;
+}
+
+.class-detail-info .class-reservation{
+    width: 300px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.class-detail-info .class-reservation .class-reservation-info{
+    font-size: 16px;
+    color:#e3563b;
+    line-height: 33px;
+}
+
+.class-detail-info .class-reservation .class-reservation-btn{
+    width: 280px;
+    background-color: #333;
+    color:#fff;
+    border:1px solid #fff;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 7px;
+    margin-top: 20px;
+}
+
+.class-detail-info .class-reservation .disable-back-color{
+    background-color: #999;
+}
+
+.class-detail-info .class-info-item{
+    padding: 0 17.5px 10px;
+}
+.class-detail-info .class-info-item .class-info-title>div{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: bold;
+}
+.class-detail-info .class-info-item .class-info-mark{
+    background: #000;
+    width: 3px;
+    height: 18px;
+    margin-right: 5px;
+    position: relative;
+    top: 2px;
+}
+
+.class-detail-info .class-info-item .class-info-detail{
+    padding: 10px 0;
+    color: #666;
+}
+
+.class-detail-info .class-info-item .class-info-detail .class-user-list{
+    line-height: 65px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.class-detail-info .class-info-item .class-info-detail .class-user-list>div{
+    display: inline-block;
+}
+
+.class-detail-info .class-info-item .class-info-detail .class-user-list .class-user-avatar{
+    height: 45px;
+    width: 45px;
+    margin: 0 41px 0 33px;
+}
+.text-ali-c{
+    text-align: center;
+}
+
+
+.dialog-content{
+    color: #FFF;
+}
+.dialog-content i{
+    color: #FFF;
+}
+.dialog-content > .iconfont{
+    font-size: 110px;
+}
+
+.dialog-content .dialog-title{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 28px;
+}
+
+.dialog-content .dialog-desc{
+    margin-top: 14px;
+    font-size: 17px;
+}
+
+.dialog-content .dialog-close{
+    margin-top: 40px;
+}
+
+.dialog-content .dialog-close > i{
+    font-size: 28px;
+}
+
+.havein{
+    color: #999;
+}
+
+.icon-jijie{
+    background: url(http://liwenqiang.oss-cn-hangzhou.aliyuncs.com/imgs/%E9%9B%86%E7%BB%93.png);
+    display: inline-block;
+    background-position: center;
+}
+
